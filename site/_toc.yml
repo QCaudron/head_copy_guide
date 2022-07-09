@@ -1,0 +1,18 @@
+format: jb-book
+root: 0_index
+chapters:
+  - file: 1_getting_started
+  - file: 2_recognition
+  - file: 3_focus
+  - file: 4_buffer
+  - file: 5_methods
+  - file: 9_thanks
+#   - file: in_detail
+#   - file: location
+#   - file: schedule
+#     sections:
+#     - file: satellite
+#   - file: setup
+#   - file: photos
+#   - file: contact
+#   - file: about
