@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 options:
-  numbered: True
+  numbered: 1
 chapters:
   - file: getting_started
     title: Getting Started
@@ -13,6 +13,8 @@ chapters:
     title: The Buffer
   - file: methods
     title: Methods
+  - file: head_sending
+    title: Head Sending
   - file: resources
     title: Learning Resources
   - file: thanks

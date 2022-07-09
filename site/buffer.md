@@ -1,3 +1,4 @@
+(chapter:buffer)=
 # The buffer, memory, and making sense of things
 
 A common complaint of those learning to head copy is that of memory : _"I copied it all, but I immediately forgot"_, or _"I got the first few words and then got overwhelmed and everything went away."_

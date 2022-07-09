@@ -1,4 +1,5 @@
-## Learning resources
+(chapter:resources)=
+# Learning resources
 
 - LICW
 - Morse Code Ninja

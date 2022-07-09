@@ -1,9 +1,12 @@
+(chapter:recognition)=
 # Recognising what you hear
 
-## Speed
+## Speed and spacing
 
 - Slower is not always better
 - But fast speeds require head copy
+- Word spacing allows for cognition
+- Too much character spacing can be ambiguous
 
 ## Instant character recognition
 
