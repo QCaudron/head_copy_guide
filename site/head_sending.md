@@ -1,4 +1,4 @@
-(head_sending)=
+(chapter:head_sending)=
 # Head-sending
 
 - Be copiable -- uniformity in spacing; character creation;
