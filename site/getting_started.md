@@ -1,4 +1,4 @@
-# Getting started
+# Getting started with head copy
 
 At the risk of starting off on the wrong foot, the first thing we must acknowledge is that skill in head copy is not developed overnight. You're likely to get {term}`frustrated<It's easy to get frustrated.>` along the way, especially if you're used to be able to copy at a certain speed on pen and paper. It's going to be very important to accept problems, errors, mind blanks, and failures -- especially as speeds increase, sentences get longer, and short exchanges become full conversations. While learning to head copy, one of the key skills you will develop is a fine-tuned but relaxed focus -- and that focus is easily shaken by feelings of frustration.
 

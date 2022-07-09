@@ -1,4 +1,4 @@
-# Head-copy methods
+# Different methods for head copy
 
 - Ticker tape / typewriter as a visual buffer
 - Writing letters on your leg

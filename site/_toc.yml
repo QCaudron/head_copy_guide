@@ -1,12 +1,21 @@
 format: jb-book
-root: 0_index
+root: index
+options:
+  numbered: True
 chapters:
-  - file: 1_getting_started
-  - file: 2_recognition
-  - file: 3_focus
-  - file: 4_buffer
-  - file: 5_methods
-  - file: 9_thanks
+  - file: getting_started
+    title: Getting Started
+  - file: recognition
+    title: Recognition
+  - file: focus
+    title: Focus
+  - file: buffer
+    title: The Buffer
+  - file: methods
+    title: Methods
+  - file: resources
+    title: Learning Resources
+  - file: thanks
 #   - file: in_detail
 #   - file: location
 #   - file: schedule
