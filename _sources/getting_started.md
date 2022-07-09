@@ -1,4 +1,5 @@
-# Getting started
+(chapter:getting_started)=
+# Getting started with head copy
 
 At the risk of starting off on the wrong foot, the first thing we must acknowledge is that skill in head copy is not developed overnight. You're likely to get {term}`frustrated<It's easy to get frustrated.>` along the way, especially if you're used to be able to copy at a certain speed on pen and paper. It's going to be very important to accept problems, errors, mind blanks, and failures -- especially as speeds increase, sentences get longer, and short exchanges become full conversations. While learning to head copy, one of the key skills you will develop is a fine-tuned but relaxed focus -- and that focus is easily shaken by feelings of frustration.
 
@@ -22,12 +23,24 @@ Where to find this kind of source material ?
 
 When we speak with other people, we are able to understand them without an intermediary -- we don't write down what they say, nor do we "replay" their sentence before we comprehend. Instead, we distill meaning out of the language, we understand the message
 
+
+## General tips
+
+- Learn to copy different fists, not computer code
+- AGN AGN
+- Learn to head send, ragchew
+- Immersion
+- Understanding the gist is often enough, unless you are passing traffic
+- Somehow it's about automation, bypassing conscious cognitive thought
+
+
+
 ## Footnotes
 
 ```{glossary}
 
 It's easy to get frustrated.
-  One of the biggest problems I hear people mention, on their head copy journeys, is that of missing something -- a letter, a word -- and "falling off". It then takes them time to get "back on", and by that time, they've lost potentially half a sentence. Frustration is a key enemy in developing our head copy skills, because it actively prevents us from successfully copying something. Later, we'll look at how [a gentle focus](./3_focus) allows us to enter a state of *flow*, some sort of "zen", at which head copying becomes much easier.
+  One of the biggest problems I hear people mention, on their head copy journeys, is that of missing something -- a letter, a word -- and "falling off". It then takes them time to get "back on", and by that time, they've lost potentially half a sentence. Frustration is a key enemy in developing our head copy skills, because it actively prevents us from successfully copying something. Later, we'll look at how [a gentle focus](./focus) allows us to enter a state of *flow*, some sort of "zen", at which head copying becomes much easier.
 
 People don't send like computers.
   Even the best fists out there have a little variability and a flow that shifts just a little. This human touch may seem to make copying more difficult -- and indeed, in some cases, it really does. However, it's what we aim to be copying on the air, and I think sometimes it's easy to fall into the trap of listening to so much computer-generated code that things get tricky when we hear a real person sending. It's well worth being exposed to a variety of fists, speeds, and "fist characters" as you practice head copying.

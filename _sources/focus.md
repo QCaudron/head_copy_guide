@@ -1,3 +1,4 @@
+(chapter:focus)=
 # Focus and the "rails"
 
 For me, concentration is a delicate thing, when head copying. There's a delicate balance to be struck, a mid-point between focusing too little, and too much.

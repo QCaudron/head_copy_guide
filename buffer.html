@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>A Guide to Head Copy &#8212; A Guide to Head Copy</title>
+    <title>4. The buffer, memory, and making sense of things &#8212; A Guide to Head Copy</title>
     
   <link href="_static/css/theme.css" rel="stylesheet">
   <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
@@ -51,11 +51,12 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
-    <link rel="canonical" href="http://www.quentincaudron.com/head_copy_guide/0_index.html" />
+    <link rel="canonical" href="http://www.quentincaudron.com/head_copy_guide/buffer.html" />
     <link rel="shortcut icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Getting started" href="1_getting_started.html" />
+    <link rel="next" title="5. Different methods for head copy" href="methods.html" />
+    <link rel="prev" title="3. Focus and the “rails”" href="focus.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -93,41 +94,51 @@ const thebe_selector_output = ".output, .cell_output"
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
- <li class="toctree-l1 current">
-  <a class="reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="index.html">
    A Guide to Head Copy
   </a>
  </li>
 </ul>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="1_getting_started.html">
-   Getting started
+  <a class="reference internal" href="getting_started.html">
+   1. Getting Started
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="2_recognition.html">
-   Recognising the code
+  <a class="reference internal" href="recognition.html">
+   2. Recognition
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="3_focus.html">
-   Focus and the “rails”
+  <a class="reference internal" href="focus.html">
+   3. Focus
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   4. The Buffer
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="4_buffer.html">
-   Buffer and memory
+  <a class="reference internal" href="methods.html">
+   5. Methods
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="5_methods.html">
-   Head-copy methods
+  <a class="reference internal" href="head_sending.html">
+   6. Head Sending
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="9_thanks.html">
-   Acknowledgements
+  <a class="reference internal" href="resources.html">
+   7. Learning Resources
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="thanks.html">
+   8. Acknowledgements
   </a>
  </li>
 </ul>
@@ -167,7 +178,7 @@ const thebe_selector_output = ".output, .cell_output"
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/0_index.md"><button type="button"
+        <a class="dropdown-buttons" href="_sources/buffer.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -187,7 +198,7 @@ const thebe_selector_output = ".output, .cell_output"
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         <a class="issues-button"
-            href="https://github.com/qcaudron/head_copy_guide/issues/new?title=Issue%20on%20page%20%2F0_index.html&body=Your%20issue%20content%20here."><button
+            href="https://github.com/qcaudron/head_copy_guide/issues/new?title=Issue%20on%20page%20%2Fbuffer.html&body=Your%20issue%20content%20here."><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
         
@@ -208,24 +219,6 @@ const thebe_selector_output = ".output, .cell_output"
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#head-sending">
-   Head-sending
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#general-tips">
-   General tips
-  </a>
- </li>
-</ul>
-
-            </nav>
         </div>
     </div>
 </div>
@@ -233,62 +226,26 @@ const thebe_selector_output = ".output, .cell_output"
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>A Guide to Head Copy</h1>
+                <h1>The buffer, memory, and making sense of things</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#head-sending">
-   Head-sending
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#general-tips">
-   General tips
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
             
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="a-guide-to-head-copy">
-<h1>A Guide to Head Copy<a class="headerlink" href="#a-guide-to-head-copy" title="Permalink to this headline">¶</a></h1>
-<p>This</p>
-<p>The next few chapters of this guide are dedicated to addressing some of the main pain points encountered when learning to head copy. In <a class="reference internal" href="2_recognition.html"><span class="doc std std-doc">Chapter 2, Recognising the code</span></a>, we look at the speeds at which we should learn to head copy, as well as instant character and word recognition. It also deals with <em>anticipation</em> and how it can be both a help and a hindrance. <a class="reference internal" href="3_focus.html"><span class="doc std std-doc">Chapter 3, Focus</span></a> discusses concentration for head copying CW, and how to find your state of <em>flow</em> in order to copy while reducing both the impact of errors and the tiredness that comes with long bouts of concentration. Then, in <a class="reference internal" href="4_buffer.html"><span class="doc std std-doc">Chapter 4, Buffer</span></a>, we look at how to actually remember what was copied, and form it into coherent thoughts and sentiments without remembering what was sent verbatim.</p>
-<p><a class="reference internal" href="5_methods.html"><span class="doc std std-doc">Chapter 5, Methods</span></a> deals with some of the different mental methods that people use to copy code in their heads.</p>
-<div class="section" id="head-sending">
-<h2>Head-sending<a class="headerlink" href="#head-sending" title="Permalink to this headline">¶</a></h2>
+  <div class="tex2jax_ignore mathjax_ignore section" id="the-buffer-memory-and-making-sense-of-things">
+<span id="chapter-buffer"></span><h1><span class="section-number">4. </span>The buffer, memory, and making sense of things<a class="headerlink" href="#the-buffer-memory-and-making-sense-of-things" title="Permalink to this headline">¶</a></h1>
+<p>A common complaint of those learning to head copy is that of memory : <em>“I copied it all, but I immediately forgot”</em>, or <em>“I got the first few words and then got overwhelmed and everything went away.”</em></p>
 <ul class="simple">
-<li><p>Be copiable – uniformity in spacing; character creation;</p></li>
-<li><p>Choose words wisely – simple, short</p></li>
-<li><p>If a common long word, it probably has an ACCEPTED abbreviation</p></li>
-<li><p>Wordsworth</p></li>
+<li><p>We can hold some amount of words in our heads</p></li>
+<li><p>However it’s better to distill the info and not remember the words</p></li>
+<li><p>Visual methods may impose more buffer limitation; K1IG talk</p></li>
+<li><p>Let’s have a conversation; we don’t remember each other’s exact words</p></li>
 </ul>
-</div>
-<div class="section" id="general-tips">
-<h2>General tips<a class="headerlink" href="#general-tips" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>Learn to copy different fists, not computer code</p></li>
-<li><p>AGN AGN</p></li>
-<li><p>Learn to head send, ragchew</p></li>
-<li><p>Immersion</p></li>
-<li><p>Understanding the gist is often enough, unless you are passing traffic</p></li>
-<li><p>Somehow it’s about automation, bypassing conscious cognitive thought</p></li>
-</ul>
-</div>
-<div class="toctree-wrapper compound">
-</div>
 </div>
 
     <script type="text/x-thebe-config">
@@ -315,11 +272,18 @@ const thebe_selector_output = ".output, .cell_output"
               
             
                 <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-    <a class='right-next' id="next-link" href="1_getting_started.html" title="next page">
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="focus.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title"><span class="section-number">3. </span>Focus and the “rails”</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="methods.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Getting started</p>
+        <p class="prev-next-title"><span class="section-number">5. </span>Different methods for head copy</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

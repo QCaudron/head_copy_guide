@@ -1,3 +1,4 @@
+(chapter:thanks)
 # Acknowledgements
 
 If I've come a long way in my CW journey, it's thanks to some wonderful people who taught me, supported me, and trusted in me.
